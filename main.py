@@ -40,7 +40,7 @@ keyboard_main = InlineKeyboardMarkup(
 id_members_for_recive_receipt_in_callback_Query = []
 
 
-# connecting to bot
+# connecting to bot | fill
 api_id = 1111111
 api_hash = ""
 token= ""
